@@ -46,8 +46,11 @@ This is one way to run your app — you can also run it directly from within And
 
 ## Features
 
-- [ ] Scheduled notifications
-- [ ] Home screen widget
+- [ ] Edit single item
+- [ ] Use number of draws without reward instead of days
+- [ ] Remove list creation, use single list
+- [ ] Scheduled notifications to draw a reward
+- [ ] Home screen widget to draw a reward from default list
 
 ## Miscellanous
 
